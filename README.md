@@ -2,7 +2,7 @@
 
 ### 👨‍💻 About me
 
-My name is David Trpchevski. I am a computer science engineer with a passion about all things surrounding Android. You can also find me writing bash scripts.
+My name is David Trpchevski. I am a software engineer with a passion about all things surrounding Android. Skilled in Kotlin, with a Bachelor of Science. You can also find me writing bash scripts.
 
 ### 💬 Connect with me
 
